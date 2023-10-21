@@ -1,1 +1,2 @@
 Hello , this is my personal repository where i dump my important piece of writings.
+these writings includes the following , source codes , dayali etc.
